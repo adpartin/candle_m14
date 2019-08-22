@@ -1,9 +1,9 @@
 ## This repo contains development code for CANDLE Milestone 14.
 
-There are two main scripts you need to run:
+There are two main scripts that you need to run:
 
 1) Script that generates topN dataset and the data splits (build_topN.py)
-2) Script that train NN model (main_m14.py)
+2) Script that trains NN model (main_m14.py)
 
 Script (1) requires to have a folder called ./data with certain files.
 You can just copy the folder /vol/ml/apartin/projects/candle/data to the main dir.
